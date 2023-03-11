@@ -1,0 +1,6 @@
+sceneSetups:
+- path: Assets/Art gallery Vol.8 - modern showroom/Scenes/Art gallery Vol.8 - modern
+    showroom.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0
